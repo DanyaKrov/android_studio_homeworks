@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Patrick Bateman card</string>
+    <string-array name="news">
+        <item>Социалистическая партия Венгрии запрещена</item>
+        <item>Рузвельт высказался о экономической депрессиии</item>
+        <item>СССР: страшные растрелы продолжаются</item>
+        <item>Германия просит Чехословкаию передать судетскую область</item>
+        <item>лига наций обеспокоена растущим милитаризмом Италии</item>
+    </string-array>
+</resources>
